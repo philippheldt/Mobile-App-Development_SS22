@@ -1,4 +1,4 @@
-package de.philippjenny.myapplication
+/* package de.philippjenny.myapplication
 
 import org.junit.Test
 
@@ -12,3 +12,5 @@ class Day1 {
         }
     }
 }
+
+ */
