@@ -6,7 +6,7 @@ import java.io.File
 class Day2 {
     @Test
 
-    fun solution_1() {
+    fun my_solution() {
         var i = 1
         var depth = 0
         var moved = 0
@@ -34,4 +34,6 @@ class Day2 {
             i++
         }
     }
+
+
 }
