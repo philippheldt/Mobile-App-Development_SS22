@@ -1,10 +1,3 @@
-//
-//  LabelStyle.swift
-//  Scrumdinger
-//
-//  Created by Philipp Jenny on 30.03.22.
-//
-
 import Foundation
 import SwiftUI
 

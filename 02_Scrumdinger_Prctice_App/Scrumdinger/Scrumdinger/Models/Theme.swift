@@ -1,4 +1,7 @@
-import Foundation
+/*
+See LICENSE folder for this sample’s licensing information.
+*/
+
 import SwiftUI
 
 enum Theme: String {
@@ -27,5 +30,8 @@ enum Theme: String {
     }
     var mainColor: Color {
         Color(rawValue)
+    }
+    var name: String {
+        rawValue.capitalized
     }
 }
