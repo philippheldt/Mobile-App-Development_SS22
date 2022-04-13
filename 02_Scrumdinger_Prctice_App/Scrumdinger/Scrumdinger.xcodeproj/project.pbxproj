@@ -21,7 +21,6 @@
 		7CB413FF26EBE3DE00544BA7 /* ThemeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CB413FE26EBE3DE00544BA7 /* ThemeView.swift */; };
 		7CB4140126EBE5E200544BA7 /* ThemePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CB4140026EBE5E200544BA7 /* ThemePicker.swift */; };
 		AA0F3C6527208FE900945F09 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AA0F3C6027208FE900945F09 /* README.md */; };
-		AA0F3C6627208FE900945F09 /* SampleCode.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = AA0F3C6227208FE900945F09 /* SampleCode.xcconfig */; };
 		AA0F3C6727208FE900945F09 /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = AA0F3C6427208FE900945F09 /* LICENSE.txt */; };
 /* End PBXBuildFile section */
 
@@ -155,7 +154,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1300;
-				LastUpgradeCheck = 1300;
+				LastUpgradeCheck = 1330;
 				TargetAttributes = {
 					7CB413DA26EA824100544BA7 = {
 						CreatedOnToolsVersion = 13.0;
@@ -189,7 +188,6 @@
 				7CB413E626EA824300544BA7 /* Preview Assets.xcassets in Resources */,
 				7CB413E326EA824300544BA7 /* Assets.xcassets in Resources */,
 				AA0F3C6727208FE900945F09 /* LICENSE.txt in Resources */,
-				AA0F3C6627208FE900945F09 /* SampleCode.xcconfig in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
